@@ -6,3 +6,9 @@ header h1 {
   background-clip: text;
   -webkit-background-clip: text;
 }
+div {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
