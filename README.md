@@ -29,28 +29,29 @@
 
 <p align="center">
     <strong>Languages:</strong><br/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" title="Python" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" alt="Java" title="Java" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C++" title="C++" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/csharp.svg" alt="C#" title="C#" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/powershell.svg" alt="Powershell" title="Powershell" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bash.svg" alt="Bash" title="Bash" width="50"/>
+    <img src="https://iconify.design/icons/bi/python" alt="Python" title="Python" width="50"/>
+    <img src="https://iconify.design/icons/bi/javascript" alt="JavaScript" title="JavaScript" width="50"/>
+    <img src="https://iconify.design/icons/bi/java" alt="Java" title="Java" width="50"/>
+    <img src="https://iconify.design/icons/bi/c-plus-plus" alt="C++" title="C++" width="50"/>
+    <img src="https://iconify.design/icons/bi/c-sharp" alt="C#" title="C#" width="50"/>
+    <img src="https://iconify.design/icons/bi/powershell" alt="Powershell" title="Powershell" width="50"/>
+    <img src="https://iconify.design/icons/bi/bash" alt="Bash" title="Bash" width="50"/>
     <br/><br/>
     <strong>Frameworks:</strong><br/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="React" title="React" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" alt="Node.js" title="Node.js" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/django.svg" alt="Django" title="Django" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/electron.svg" alt="Electron" title="Electron" width="50"/>
+    <img src="https://iconify.design/icons/bi/react" alt="React" title="React" width="50"/>
+    <img src="https://iconify.design/icons/bi/nodejs" alt="Node.js" title="Node.js" width="50"/>
+    <img src="https://iconify.design/icons/bi/django" alt="Django" title="Django" width="50"/>
+    <img src="https://iconify.design/icons/bi/electron" alt="Electron" title="Electron" width="50"/>
     <br/><br/>
     <strong>Tools:</strong><br/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" alt="Git" title="Git" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" alt="Docker" title="Docker" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" alt="VS Code" title="VS Code" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/kitty.svg" alt="Kitty" title="Kitty" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/debian.svg" alt="Debian" title="Debian" width="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/archlinux.svg" alt="Arch Linux" title="Arch Linux" width="50"/>
+    <img src="https://iconify.design/icons/bi/git" alt="Git" title="Git" width="50"/>
+    <img src="https://iconify.design/icons/bi/docker" alt="Docker" title="Docker" width="50"/>
+    <img src="https://iconify.design/icons/bi/visual-studio-code" alt="VS Code" title="VS Code" width="50"/>
+    <img src="[https://iconify.design/icons/bi/kitty](https://duckduckgo.com/i/3c5c7f27.png)" alt="Kitty" title="Kitty" width="50"/>
+    <img src="https://iconify.design/icons/bi/debian" alt="Debian" title="Debian" width="50"/>
+    <img src="https://iconify.design/icons/bi/arch-linux" alt="Arch Linux" title="Arch Linux" width="50"/>
 </p>
+
 
 
 <!-- <h2 align="center">📈 Contribution Graph</h2>
