@@ -1,5 +1,7 @@
 <!-- README.md -->
 
+<link rel="stylesheet" href="style.css">
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/MAKROFREEK">MAKROFREEK</a>! 👋</h1>
 
 <p align="center">
