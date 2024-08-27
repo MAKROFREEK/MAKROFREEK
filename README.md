@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/MAKROFREEK">MAKROFREEK</a>! 👋</h1>
 
 <p align="center">
-    Welcome to my GitHub profile! I'm passionate about <strong>[your main interests]</strong>, and I'm always excited to work on new and interesting projects. 🚀
+    Welcome to my GitHub profile! I'm passionate about <strong>cybersecurity, networking & programming</strong>, and I'm always excited to work on new and interesting projects. 🚀
 </p>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
