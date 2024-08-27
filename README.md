@@ -38,18 +38,18 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/bash.png" alt="Bash" title="Bash"/>
     <br/><br/>
     <strong>Frameworks:</strong><br/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/react.png" alt="React" title="React"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" title="Node.js"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" title="Django"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/electron.png" alt="Electron" title="Electron"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Freact-logo-png-react-logo-png-img-900-900-free-transparent-react-png-900x900.jpg&f=1&nofb=1&ipt=a1f47645cd819df1de35b2e00a7c9aeb65e0667df7d57a884683a1f1ec16ff4d&ipo=images" alt="React" title="React"/>
+    <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js"/>
+    <img src="https://img.icons8.com/color/50/000000/django.png" alt="Django" title="Django"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fandreavitiani%2Fbootsrap-for-electron%2Fmaster%2Fimg%2Felectron-logo.png&f=1&nofb=1&ipt=fbbe88508c06ec54c787bb14619b1afd2e5e256bf0f2a7637e1ef1aabfe18a36&ipo=images" alt="Electron" title="Electron"/>
     <br/><br/>
     <strong>Tools:</strong><br/>
     <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git"/>
     <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker"/>
     <img src="https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png" alt="VS Code" title="VS Code"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/kitty.png" alt="Kitty" title="Kitty"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/debian.png" alt="Debian" title="Debian"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/arch-linux.png" alt="Arch Linux" title="Arch Linux"/>
+    <img src="https://duckduckgo.com/i/3c5c7f27.png" alt="Kitty" title="Kitty"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.pnghut.com%2F9%2F19%2F17%2FgPfXYNvhag%2Fmaterial-property-round-icon-debian-software-distribution-circle.jpg&f=1&nofb=1&ipt=e00e121d6613451381fb0200b56c8662137d151fea76b8d0fbeb44dcf0352808&ipo=images" alt="Debian" title="Debian"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yh48v_vbOPrS-TK5uDgnqAHaHa%26pid%3DApi&f=1&ipt=3730ea2435e8672677b497779928de0671556bd8b95f4ec4011fa8fb3ef44a50&ipo=images" alt="Arch Linux" title="Arch Linux"/>
 </p>
 
 
