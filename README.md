@@ -27,31 +27,32 @@
 
 <h2 align="center">🛠️ Technologies & Tools 🛠️</h2>
 
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
 <p align="center">
     <strong>Languages:</strong><br/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" title="Java"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp.png" alt="C#" title="C#"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/powershell.png" alt="Powershell" title="Powershell"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/bash.png" alt="Bash" title="Bash"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/python.png" alt="Python" title="Python"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/java.png" alt="Java" title="Java"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/c-sharp.png" alt="C#" title="C#"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/powershell.png" alt="Powershell" title="Powershell"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/bash.png" alt="Bash" title="Bash"/>
     <br/><br/>
     <strong>Frameworks:</strong><br/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/react.png" alt="React" title="React"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" title="Node.js"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" title="Django"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/electron.png" alt="Electron" title="Electron"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/react.png" alt="React" title="React"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/nodejs.png" alt="Node.js" title="Node.js"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/django.png" alt="Django" title="Django"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/electron.png" alt="Electron" title="Electron"/>
     <br/><br/>
     <strong>Tools:</strong><br/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png" alt="VS Code" title="VS Code"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/kitty.png" alt="Kitty" title="Kitty"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/debian.png" alt="Debian" title="Debian"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/arch-linux.png" alt="Arch Linux" title="Arch Linux"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/git.png" alt="Git" title="Git"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/docker.png" alt="Docker" title="Docker"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/visual-studio-code.png" alt="VS Code" title="VS Code"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/kitty.png" alt="Kitty" title="Kitty"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/debian.png" alt="Debian" title="Debian"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/arch-linux.png" alt="Arch Linux" title="Arch Linux"/>
 </p>
-
 
 <!-- <h2 align="center">📈 Contribution Graph</h2>
 
