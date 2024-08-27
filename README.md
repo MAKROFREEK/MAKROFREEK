@@ -47,7 +47,7 @@
     <img src="https://iconify.design/icons/bi/git" alt="Git" title="Git" width="50"/>
     <img src="https://iconify.design/icons/bi/docker" alt="Docker" title="Docker" width="50"/>
     <img src="https://iconify.design/icons/bi/visual-studio-code" alt="VS Code" title="VS Code" width="50"/>
-    <img src="[https://iconify.design/icons/bi/kitty](https://duckduckgo.com/i/3c5c7f27.png)" alt="Kitty" title="Kitty" width="50"/>
+    <img src="https://duckduckgo.com/i/3c5c7f27.png" alt="Kitty" title="Kitty" width="50"/>
     <img src="https://iconify.design/icons/bi/debian" alt="Debian" title="Debian" width="50"/>
     <img src="https://iconify.design/icons/bi/arch-linux" alt="Arch Linux" title="Arch Linux" width="50"/>
 </p>
