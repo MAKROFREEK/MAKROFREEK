@@ -36,7 +36,10 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.pnghut.com%2F9%2F19%2F17%2FgPfXYNvhag%2Fmaterial-property-round-icon-debian-software-distribution-circle.jpg&f=1&nofb=1&ipt=e00e121d6613451381fb0200b56c8662137d151fea76b8d0
 </p>
 
+<p> . </p>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
+
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MAKROFREEK&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark" alt="MAKROFREEK's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAKROFREEK&layout=compact&theme=dark" alt="MAKROFREEK's Top Languages" />
