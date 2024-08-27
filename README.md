@@ -2,29 +2,12 @@
 
 <link rel="stylesheet" href="style.css">
 
+<!-- banner -->
+<img src=""> 
 <h1 align="center">Hi there, I'm <a href="https://github.com/MAKROFREEK">MAKROFREEK</a>! 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
     Welcome to my GitHub profile! I'm passionate about <strong>cybersecurity, networking & programming</strong>, and I'm always excited to work on new and interesting projects. 🚀
-</p>
-
-<!-- <h2 align="center">🌟 Featured Projects 🌟</h2>
-
-<p align="center">
-    <a href="https://github.com/MAKROFREEK/project1">
-        <img src="https://img.shields.io/badge/Project_1-Highlighted-blue" alt="Project 1" />
-    </a>
-    <p>A brief description of your first project. Explain what it does and why it's cool!</p>
-    
-    <a href="https://github.com/MAKROFREEK/project2">
-        <img src="https://img.shields.io/badge/Project_2-Highlighted-blue" alt="Project 2" />
-    </a>
-    <p>A brief description of your second project. Mention any notable features or achievements!</p>
-    
-    <a href="https://github.com/MAKROFREEK/project3">
-        <img src="https://img.shields.io/badge/Project_3-Highlighted-blue" alt="Project 3" />
-    </a>
-    <p>A brief description of your third project. Highlight what makes it unique or valuable!</p>
 </p> -->
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
