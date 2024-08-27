@@ -53,13 +53,6 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.pnghut.com%2F9%2F19%2F17%2FgPfXYNvhag%2Fmaterial-property-round-icon-debian-software-distribution-circle.jpg&f=1&nofb=1&ipt=e00e121d6613451381fb0200b56c8662137d151fea76b8d0
 </p>
 
-
-<!-- <h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=MAKROFREEK&theme=react-dark" alt="MAKROFREEK's Contribution Graph" />
-</p> -->
-
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <p align="center">
