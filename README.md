@@ -29,13 +29,11 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
 <p align="center">
     <strong>Languages:</strong><br/>
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" style="width: 50px; height: 50px;"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" style="width: 50px; height: 50px;"/>
-    <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" title="Java" style="width: 50px; height: 50px;"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandlogos.net%2Fwp-content%2Fuploads%2F2021%2F11%2Fjava-logo.png&f=1&nofb=1&ipt=45a7a113bd7ab55d81819ca9acdbf770db183778dac8350125b89f7649b647bb&ipo=images" alt="Java" title="Java" style="width: 50px; height: 50px;"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" style="width: 50px; height: 50px;"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp.png" alt="C#" title="C#" style="width: 50px; height: 50px;"/>
     <img src="https://img.icons8.com/ios-filled/50/000000/powershell.png" alt="Powershell" title="Powershell" style="width: 50px; height: 50px;"/>
