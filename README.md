@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" type="text/css" href="/styles.css" media="screen"/>
 
 <!-- banner -->
 <img src=""> 
