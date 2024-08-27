@@ -61,6 +61,8 @@
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAKROFREEK&theme=dark" alt="MAKROFREEK's Streak Stats" /> -->
 </p>
 
+<p></p>
+
 <h2 align="center">💬 Get In Touch</h2>
 
 <p align="center">
