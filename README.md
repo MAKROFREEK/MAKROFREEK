@@ -7,5 +7,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MAKROFREEK&show_icons=true&hide_title=true&count_private=false&include_all_commits=true&theme=dark" alt="MAKROFREEK's GitHub Stats" />
    
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAKROFREEK&layout=compact&theme=dark" alt="MAKROFREEK's Top Languages" />
 </p>
